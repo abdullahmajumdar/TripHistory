@@ -1,0 +1,9 @@
+{
+  "AppSettings": {
+    "SiteEmailAddress": "abdullah.majumdar@theworld.com",
+    "BingKey": "DoNotHardCodeKeysInConfiguration"
+  },
+  "Data": {
+    "WorldContextConnection": "Server=(localdb)\\ProjectsV12;Database=TheWorldDb;Trusted_Connection=true;MultipleActiveResultSets=true"
+  }
+}
